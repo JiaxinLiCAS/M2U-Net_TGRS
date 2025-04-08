@@ -11,7 +11,7 @@ Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGR
 
 The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/379925172_Model-informed_Multistage_Unsupervised_Network_for_Hyperspectral_Image_Super-resolution) or 🖼️[**PDF**](./Imgs/M2U-Net.pdf)
 
-More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN).
+More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
 
 <img src="./Imgs/fig1.png" width="666px"/>
 
