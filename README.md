@@ -1,7 +1,7 @@
 # M2U-Net_TGRS
 Model-informed Multistage Unsupervised Network for Hyperspectral Image Super-resolution, TGRS. (PyTorch)
 
-# $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+# $\color{red}{有问题直接添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 ## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
 
@@ -9,9 +9,9 @@ Model-informed Multistage Unsupervised Network for Hyperspectral Image Super-res
 
 Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
 
-The final version can be downloaded in my [researchgate](https://www.researchgate.net/publication/379925172_Model-informed_Multistage_Unsupervised_Network_for_Hyperspectral_Image_Super-resolution) or 🖼️[**PDF**](./Imgs/M2U-Net.pdf)
+文章可在这里下载🖼️[**PDF**](./Imgs/M2U-Net.pdf)，The final version can be downloaded in  🖼️[**PDF**](./Imgs/M2U-Net.pdf) 
 
-More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
+这是我的[谷歌学术](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)和[ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)，More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
 
 <img src="./Imgs/fig1.png" width="666px"/>
 
@@ -91,4 +91,7 @@ This folder consists of ten .py files, including
 
 ## Contact
 
-If you encounter any bugs while using this code, please do not hesitate to contact us.
+遇到任何问题，包括但不限于代码调试、数据仿真、运行结果等，随时添加
+$\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+
+If you encounter any bugs while using this code, please do not hesitate to contact us. lijiaxin203@mails.ucas.ac.cn
