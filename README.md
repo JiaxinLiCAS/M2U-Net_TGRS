@@ -1,7 +1,7 @@
 # M2U-Net_TGRS
 Model-informed Multistage Unsupervised Network for Hyperspectral Image Super-resolution, TGRS. (PyTorch)
 
-# $\color{red}{有问题直接添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
+# $\color{red}{欢迎添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 ## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
 
