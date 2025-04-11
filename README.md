@@ -1,17 +1,37 @@
 # M2U-Net_TGRS
 Model-informed Multistage Unsupervised Network for Hyperspectral Image Super-resolution, TGRS. (PyTorch)
 
+[Jiaxin Li 李嘉鑫](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng 郑珂](https://www.researchgate.net/profile/Ke-Zheng-9), [Lianru Gao 高连如](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Li Ni 倪丽](https://orcid.org/0000-0002-9236-026X), [Min Huang 黄旻](https://people.ucas.ac.cn/~huangmin), and [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=zh-CN&oi=ao), IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
+
+
+文章可在这里下载🖼️[**PDF**](./Imgs/M2U-Net.pdf)，The final version can be downloaded in  🖼️[**PDF**](./Imgs/M2U-Net.pdf) 
+
+
 # $\color{red}{欢迎添加 我的微信(WeChat): BatAug，欢迎交流与合作}$
 
 ## 本人还提出了其余多个开源的高光谱-多光谱超分融合代码，可移步至[GitHub主页下载](https://github.com/JiaxinLiCAS) 
 
-[Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng](https://www.researchgate.net/profile/Ke-Zheng-9), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Li Ni](https://orcid.org/0000-0002-9236-026X), [Min Huang](https://people.ucas.ac.cn/~huangmin), and [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=zh-CN&oi=ao)
 
-Our paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
+### 我是李嘉鑫，25年毕业于中科院空天信息创新研究院的直博生，导师高连如研究员 ###
 
-文章可在这里下载🖼️[**PDF**](./Imgs/M2U-Net.pdf)，The final version can be downloaded in  🖼️[**PDF**](./Imgs/M2U-Net.pdf) 
+2020.09-2025.07 就读于中国科学院 空天信息创新研究院 五年制直博生 $\color{red}{导师：高连如研究员}$ 【[导师空天院官网](https://people.ucas.ac.cn/~gaolianru)，[谷歌学术主页](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)】
+
+2016.09-2020.7 就读于重庆大学 土木工程学院 测绘工程专业
+
+From 2020.09 to 2025.07, I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMAAAAJ&hl=zh-CN)
+
+From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
 
 这是我的[谷歌学术](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)和[ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)，More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
+
+
+# 代码解析 👇 有助你读懂代码 便于复现
+
+🖼️**遇到任何问题，包括但不限于代码调试、数据仿真、运行结果等，随时添加**
+$\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+
+
 
 <img src="./Imgs/fig1.png" width="666px"/>
 
