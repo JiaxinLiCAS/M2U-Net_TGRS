@@ -1,6 +1,6 @@
 # M2U-Net_TGRS
 Model-informed Multistage Unsupervised Network for Hyperspectral Image Super-resolution, TGRS. (PyTorch)
-
+<!--
 [Jiaxin Li 李嘉鑫](https://www.researchgate.net/profile/Li-Jiaxin-20), [Ke Zheng 郑珂](https://www.researchgate.net/profile/Ke-Zheng-9), [Lianru Gao 高连如](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Li Ni 倪丽](https://orcid.org/0000-0002-9236-026X), [Min Huang 黄旻](https://people.ucas.ac.cn/~huangmin), and [Jocelyn Chanussot](https://scholar.google.com/citations?user=6owK2OQAAAAJ&hl=zh-CN&oi=ao), IEEE Transactions on Geoscience and Remote Sensing (TGRS). 
 
 
@@ -33,7 +33,7 @@ My supervisor is [Lianru Gao](https://scholar.google.com/citations?user=La-8gLMA
 From 2016.0 to 2020.7, I studied in the school of civil engineering at Chongqing University, Chongqing, China, for a Bachelor of Engineering.
 
 这是我的[谷歌学术](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)和[ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)，More information can be found in my [Google Scholar Citations](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN) and my [ResearchGate](https://www.researchgate.net/profile/Jiaxin-Li-lijiaxin?ev=hdr_xprf)
-
+-->
 
 # 代码解析 👇 有助你读懂代码 便于复现
 
